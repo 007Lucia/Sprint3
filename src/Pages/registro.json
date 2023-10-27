@@ -1,0 +1,35 @@
+{"Registrate":{
+	"GetFieldBy": "css",
+	"ValueToFind": "#menuUsuarioDiv > li.m-register.m-prod > a"
+},
+
+"Nombre":{
+	"GetFieldBy": "id",
+	"ValueToFind": "usuario_registro_nombre"
+},
+
+"Apellido":{
+	"GetFieldBy": "id", 
+	"ValueToFind": "usuario_registro_apellido"
+},
+
+"Telefono":{
+	"GetFieldBy": "id",
+	"ValueToFind": "usuario_registro_telefono"
+},
+
+"Email":{ 
+	"GetFieldBy": "id",
+	"ValueToFind": "usuario_registro_email"
+},
+
+"Password":{
+	"GetFieldBy": "id",
+	"ValueToFind": "usuario_registro_plainPassword"
+},
+
+"Registrar_button":{
+	"GetFieldBy": "id",
+	"ValueToFind": "usuario_registro_registrar"
+}
+}
